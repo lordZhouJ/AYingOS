@@ -1,1 +1,0 @@
-..\public_tools\imgtol.com w a: ../output/helloos.img
